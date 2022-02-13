@@ -3,7 +3,6 @@
 import json
 import datetime
 
-
 def parse_json(filename):
     """
     Parses a json file and returns a list of dictionaries
