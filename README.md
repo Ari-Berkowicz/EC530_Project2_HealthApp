@@ -1,4 +1,4 @@
-# EC530_Project2_HealthApp
+# Health Application
 
 ## Platform to monitor patients at home or in the hospitals
 
