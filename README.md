@@ -1,1 +1,1 @@
-# EC530_Project2_HealthApp
+# Health Application
