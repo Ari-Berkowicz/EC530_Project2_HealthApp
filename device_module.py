@@ -34,3 +34,5 @@ if __name__ == '__main__':
     data = parse_json('data.json')
     # Log the data to the file
     log_to_folder(data)
+
+    
