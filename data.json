@@ -16,7 +16,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         },
         {
             "name": "Jane Doe",
@@ -34,7 +36,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         },
         {
             "name": "John Smith",
@@ -52,7 +56,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         },
         {
             "name": "Jane Smith",
@@ -70,7 +76,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         },
         {
             "name": "Bob Doe",
@@ -88,7 +96,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         },
         {
             "name": "Bill Doe",
@@ -106,7 +116,9 @@
             "weight": null,
             "height": null,
             "bmi": null,
-            "pulse_rate": null
+            "pulse_rate": null,
+            "oximeter": null,
+            "glucometer": null
         }
     ]
 }
