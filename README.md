@@ -10,3 +10,10 @@
     * Application developers 
     * Device integrators
     * Machine Learning Scientists
+
+
+## API Endpoints
+  * POST
+  * PUT
+  * GET
+  * DELETE
