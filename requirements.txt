@@ -3,3 +3,4 @@ pytest
 coverage
 flask
 json2table
+mysql-connector-python
